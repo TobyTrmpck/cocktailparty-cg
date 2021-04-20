@@ -387,7 +387,7 @@
         {
          "columns":8,
          "firstgid":977,
-         "image":"tilesets\/walls2.png",
+         "image":"walls2.png",
          "imageheight":832,
          "imagewidth":256,
          "margin":0,
@@ -2039,7 +2039,7 @@
         {
          "columns":8,
          "firstgid":1185,
-         "image":"tilesets\/walls2letters.png",
+         "image":"walls2letters.png",
          "imageheight":832,
          "imagewidth":256,
          "margin":0,
