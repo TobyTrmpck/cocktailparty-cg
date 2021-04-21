@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com"
+                 "value":"s3:\/\/workadventure-testing\/Workadventure_Einleitung.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
