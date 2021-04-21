@@ -120,7 +120,7 @@
         {
          "columns":10,
          "firstgid":209,
-         "image":"fantasy_trees.gif",
+         "image":"fantasy_trees2.png",
          "imageheight":800,
          "imagewidth":336,
          "margin":0,
@@ -2141,7 +2141,7 @@
         {
          "columns":31,
          "firstgid":459,
-         "image":"Atlas2_build_atlas.png",
+         "image":"Atlas2_build_atlas2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":1,
@@ -9400,7 +9400,7 @@
         {
          "columns":16,
          "firstgid":1420,
-         "image":"house_inside_1.png",
+         "image":"house_inside_12.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -11412,7 +11412,7 @@
         {
          "columns":32,
          "firstgid":1644,
-         "image":"Atlas2_obj_misk_atlas.png",
+         "image":"Atlas2_obj_misk_atlas2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
