@@ -37,12 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/capgemini.sharepoint.com\/:b:\/r\/sites\/CL2021-AGSocializing\/Shared%20Documents\/AG%20Socializing\/Workadventure_Einleitung.pdf?csf=1&web=1&e=VYaLZG"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"src \"https:\/\/capgemini.sharepoint.com\/:b:\/r\/sites\/CL2021-AGSocializing\/Shared%20Documents\/AG%20Socializing\/Workadventure_Einleitung.pdf?csf=1&web=1&e=VYaLZG\""
+                 "value":"https:\/\/ibb.co\/CJrzcsw"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
