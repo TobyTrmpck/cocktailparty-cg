@@ -129,6 +129,11 @@
                  "value":"https:\/\/talent.capgemini.com\/global\/news\/115705"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"allowCookies"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
