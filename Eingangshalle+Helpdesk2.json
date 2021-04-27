@@ -190,7 +190,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"/@/cap_gemini/c+l/trainingsroom"
+                 "value":"/@/cap_gemini/c+l/trainingsraum"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
