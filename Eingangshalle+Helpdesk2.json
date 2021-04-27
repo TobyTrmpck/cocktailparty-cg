@@ -38,7 +38,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"HiddenBar.json"
+                 "value":"/@/cap_gemini/c+l/hiddenbar"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -76,7 +76,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"dungeon1.json"
+                 "value":"/@/cap_gemini/c+l/dungeon1"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -95,7 +95,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Garden.json"
+                 "value":"/@/cap_gemini/c+l/garden"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -114,7 +114,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"AmongUs.json"
+                 "value":"/@/cap_gemini/c+l/amongus"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -133,7 +133,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"PuppyRoom.json"
+                 "value":"/@/cap_gemini/c+l/puppyroom"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -152,7 +152,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"bathroom.json"
+                 "value":"/@/cap_gemini/c+l/bathroom"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -171,7 +171,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"galerieflur.json"
+                 "value":"/@/cap_gemini/c+l/galerieflur"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -190,7 +190,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"trainingsraum.json"
+                 "value":"/@/cap_gemini/c+l/trainingsroom"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -209,7 +209,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Relax.json"
+                 "value":"/@/cap_gemini/c+l/relax"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",
@@ -228,7 +228,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"LenasKitchen.json"
+                 "value":"/@/cap_gemini/c+l/lenaskitchen"
                 }],
          "tintcolor":"#6400ff00",
          "type":"tilelayer",

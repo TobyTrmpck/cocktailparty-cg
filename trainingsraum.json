@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Eingangshalle+Helpdesk2.json"
+                 "value":"/@/cap_gemini/c+l/eingangshallehelpdesk2"
                 }],
          "type":"tilelayer",
          "visible":true,
