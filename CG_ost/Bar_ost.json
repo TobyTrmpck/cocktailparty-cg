@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table1_ind"
+                 "value":"table1_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table2_ind"
+                 "value":"table2_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table3_ind"
+                 "value":"table3_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table4_ind"
+                 "value":"table4_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table5_ind"
+                 "value":"table5_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table6_ind"
+                 "value":"table6_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table7_ind"
+                 "value":"table7_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table8_ind"
+                 "value":"table8_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table9_ind"
+                 "value":"table9_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table10_ind"
+                 "value":"table10_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,7 +217,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table11_ind"
+                 "value":"table11_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table12_ind"
+                 "value":"table12_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table13_ind"
+                 "value":"table13_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table14_ind"
+                 "value":"table14_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table15_ind"
+                 "value":"table15_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table16_ind"
+                 "value":"table16_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table17_ind"
+                 "value":"table17_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +343,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table18_ind"
+                 "value":"table18_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table19_ind"
+                 "value":"table19_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table20_ind"
+                 "value":"table20_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +397,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table21_ind"
+                 "value":"table21_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +415,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table22_ind"
+                 "value":"table22_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -433,7 +433,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table23_ind"
+                 "value":"table23_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -451,7 +451,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table24_ind"
+                 "value":"table24_ost"
                 }],
          "type":"tilelayer",
          "visible":true,

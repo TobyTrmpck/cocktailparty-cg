@@ -222,7 +222,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk1_eng"
+                 "value":"Foyertalk1_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -245,7 +245,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk2_eng"
+                 "value":"Foyertalk2_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -268,7 +268,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk3_eng"
+                 "value":"Foyertalk3_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -291,7 +291,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk4_eng"
+                 "value":"Foyertalk4_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -314,7 +314,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk5_eng"
+                 "value":"Foyertalk5_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -337,7 +337,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk6_eng"
+                 "value":"Foyertalk6_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -360,7 +360,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk7_eng"
+                 "value":"Foyertalk7_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -383,7 +383,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk8_eng"
+                 "value":"Foyertalk8_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -406,7 +406,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk9_eng"
+                 "value":"Foyertalk9_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -429,7 +429,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk10_eng"
+                 "value":"Foyertalk10_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -452,7 +452,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk11_eng"
+                 "value":"Foyertalk11_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -475,7 +475,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk12_eng"
+                 "value":"Foyertalk12_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -498,7 +498,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk13_eng"
+                 "value":"Foyertalk13_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -521,7 +521,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk14_eng"
+                 "value":"Foyertalk14_west"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -544,7 +544,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Foyertalk15_eng"
+                 "value":"Foyertalk15_west"
                 }, 
                 {
                  "name":"jitsiTrigger",

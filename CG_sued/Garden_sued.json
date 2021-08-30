@@ -118,7 +118,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench3_eng"
+                 "value":"bench3_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -141,7 +141,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench4_eng"
+                 "value":"bench4_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -164,7 +164,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench2_eng"
+                 "value":"bench2_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -187,7 +187,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench1_eng"
+                 "value":"bench1_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -210,7 +210,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench5_eng"
+                 "value":"bench5_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -233,7 +233,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench6_eng"
+                 "value":"bench6_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -256,7 +256,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench7_eng"
+                 "value":"bench7_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -279,7 +279,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bench8_eng"
+                 "value":"bench8_sued"
                 }, 
                 {
                  "name":"jitsiTrigger",
