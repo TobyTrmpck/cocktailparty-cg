@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/CG_west\/dungeon1_west.json"
+                 "value":".\/dungeon1_west.json"
                 }],
          "type":"tilelayer",
          "visible":true,

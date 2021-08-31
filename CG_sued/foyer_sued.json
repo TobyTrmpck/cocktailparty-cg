@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/dungeon1_sued.json"
+                 "value":".\/dungeon1_sued.json"
                 }],
          "type":"tilelayer",
          "visible":true,
