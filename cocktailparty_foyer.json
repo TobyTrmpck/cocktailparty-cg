@@ -479,7 +479,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord"
+                 "value":".\/CG_nord\/foyer_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -497,7 +497,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_west"
+                 "value":".\/CG_west\/foyer_west.json"
                 }],
          "type":"tilelayer",
          "visible":true,

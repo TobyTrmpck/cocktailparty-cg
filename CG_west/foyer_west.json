@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/dungeon1_west"
+                 "value":".\/CG_west\/dungeon1_west.json"
                 }],
          "type":"tilelayer",
          "visible":true,
