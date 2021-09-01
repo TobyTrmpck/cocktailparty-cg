@@ -51,6 +51,12 @@
          "id":11,
          "name":"exit_foyer_ost",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/cap_gemini\/cp\/foyer_ost#entrypoint_dungeon_ost"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -85,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/i.ibb.co\/94hrc00\/gruendung-sogeti-mutter-test.png"
+                 "value":"https:\/\/i.ibb.co\/TPQXby4\/gruendung-sogeti-mutter.png"
                 }],
          "type":"tilelayer",
          "visible":true,
