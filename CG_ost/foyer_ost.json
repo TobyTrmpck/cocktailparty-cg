@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/garden_ost.json"
+                 "value":".\/Garden_ost.json"
                 }],
          "type":"tilelayer",
          "visible":true,
