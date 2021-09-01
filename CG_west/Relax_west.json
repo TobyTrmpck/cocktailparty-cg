@@ -59,9 +59,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_west"
+                 "value":"\/@\/cap_gemini\/cp\/foyer_west#entrypoint_relax_west"
                 }],
          "type":"tilelayer",
          "visible":true,

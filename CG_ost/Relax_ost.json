@@ -59,9 +59,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_ost"
+                 "value":"\/@\/cap_gemini\/cp\/foyer_ost#entrypoint_relax_ost"
                 }],
          "type":"tilelayer",
          "visible":true,

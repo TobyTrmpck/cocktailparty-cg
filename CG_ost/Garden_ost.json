@@ -86,9 +86,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_ost"
+                 "value":".\/foyer_ost.json#entrypoint_garden_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
