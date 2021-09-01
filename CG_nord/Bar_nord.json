@@ -479,9 +479,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord"
+                 "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_bar_nord"
                 }],
          "type":"tilelayer",
          "visible":true,

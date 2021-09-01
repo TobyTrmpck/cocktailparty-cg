@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/relax_ost"
+                 "value":"\/@\/cap_gemini\/cp\/Relax_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/dungeon1_ost.json"
+                 "value":"\/@\/cap_gemini\/cp\/dungeon1_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Garden_ost.json"
+                 "value":"\/@\/cap_gemini\/cp\/Garden_ost"
                 }],
          "type":"tilelayer",
          "visible":true,
