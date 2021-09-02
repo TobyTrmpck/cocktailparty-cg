@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord"
+                 "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_dungeon_nord"
                 }],
          "type":"tilelayer",
          "visible":true,
